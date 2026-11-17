@@ -1,0 +1,59 @@
+listing_id,address,district,zip_code,city,living_area,cold_rent_eur,lease_date
+1001,101 Osterstraße,Hannover-Mitte,30159,Hannover,,"504,17",2022-02-04
+1002,121 Osterstraße,mitte,30159,Hannover,"111,6 m²",1536.54,7.3.2023
+1003,31 Georgstraße,mitte,30159,Hannover,999,655 €,10.04.2024
+1004,51 Georgstraße,Mitte,30159,Hannover,"34,5","495,74 €",2021-05-13
+1005,71 Georgstraße,Hannover-Mitte,30159,Hannover,82.7,999,16.6.2022
+1006,10 Podbielskistraße,List ,30163,Hannover,41.9,579.03,19.07.2023
+1007,100 Podbielskistraße,List ,30163,Hannover,"35,8 m²",-1,2024-08-22
+1008,12 Lister Meile,List,30163,Hannover,,838.4,25.9.2021
+1009,12 lister meile,List,30163,Hannover,64.0,838 €,28.10.2022
+1010,30 Lister Straße,List,30163,Hannover,84.2,"1156,56",2023-11-03
+1011,50 Lister Meile,hannover-list,30163,Hannover,94.3,1209.27,6.12.2024
+1012,56 Podbielskistrase,List,30163,Hannover,"78,4 m²",1027.04,09.01.2021
+1013,56 Podbielskistraße,List,30163,Hannover,78.4,"1.027,04 €",2022-02-12
+1014,80 Lister Meile,hannover-list,30163,Hannover,999,996.37,15.3.2023
+1015,115 Isernhagener Straße,Vahrenwald,30165,Hannover,,"1.179,00 €",18.04.2024
+1016,15 Isernhagener Straße,Vahrenwald,30165,Hannover,"39,7","458,69",2021-05-21
+1017,45 Vahrenwalder Straße,Vahrenwald,30165,Hannover,"100,6 m²",1022.07,24.6.2022
+1018,65 Vahrenwalder Straße,Vahrenwald,30165,Hannover,69.0,999,27.07.2023
+1019,107 Voßstraße,Nordstadt,30167,Hannover,85.2,"1073,78",2024-08-02
+1020,17 Haltenhoffstraße,Nordstadt,30167,Hannover,"37,0",459.7,5.9.2021
+1021,37 Haltenhoffstraße,Nordstadt,30167,Hannover,118.5,"1.343,00 €",08.10.2022
+1022,57 Haltenhoffstraße,Nordstadt,30167,Hannover,,"491,12 €",2023-11-11
+1023,87 Voßstraße,Nordstadt,30167,Hannover,62.7,764.66,14.12.2024
+1024,114 Sallstraße,Südstadt,30171,Hannover,"34,7",-1,17.01.2021
+1025,24 Hildesheimer Straße,Südstadt,30171,Hannover,999,"637,11",2022-02-20
+1026,44 Hildesheimer Straße,suedstadt,30171,Hannover,94.6,1243.28,23.3.2023
+1027,64 Hildesheimer Straße,SUEDSTADT,30171,Hannover,"50,6 m²",698 €,26.04.2024
+1028,94 Sallstraße,SUEDSTADT,30171,Hannover,"78,3","1163,79",2021-05-01
+1029,21 Limmerstrasse,Linden,30451,Hannover,,547.2,4.6.2022
+1030,21 Limmerstraße,Linden,30451,Hannover,48.0,547.2,07.07.2023
+1031,23 Blumenauer Straße,Linden,30451,Hannover,106.2,999,2024-08-10
+1032,3 Am Kuechengarten,Linden,30451,Hannover,"55,5 m²",632.7,13.9.2021
+1033,3 Am Küchengarten,Linden,30451,Hannover,55.5,633 €,16.10.2022
+1034,3 Limmerstraße,Linden,30451,Hannover,39.8,"466,89",2023-11-19
+1035,43 Am Küchengarten,Linden,30451,Hannover,104.8,1193.34,22.12.2024
+1036,73 Am Küchengarten,Hannover-Linden,30451,Hannover,999,977.33,25.01.2021
+1037,93 Limmerstraße,Hannover-Linden,30451,Hannover,"64,9 m²","756,61",2022-02-28
+1038,108 Badenstedter Straße,ricklingen,30459,Hannover,75.5,768.87,3.3.2023
+1039,38 Ricklinger Stadtweg,ricklingen,30459,Hannover,96.8,942 €,06.04.2024
+1040,58 Ricklinger Stadtweg,ricklingen,30459,Hannover,"97,2","882,65 €",2021-05-09
+1041,8 Badenstedter Straße,ricklingen,30459,Hannover,81.5,-1,12.6.2022
+1042,29 Fiedelerstraße,Döhren,30519,Hannover,"41,0 m²",443.61,15.07.2023
+1043,59 Döhrener Straße,Döhren,30519,Hannover,,"1359,34",2024-08-18
+1044,79 Döhrener Straße,Döhren,30519,Hannover,"113,4",999,21.9.2021
+1045,9 Fiedelerstraße,Döhren,30519,Hannover,85.4,998 €,24.10.2022
+1046,16 Hauptstraße,kirchrode,30539,Hannover,39.7,"489,98",2023-11-27
+1047,36 Hauptstraße,kirchrode,30539,Hannover,999,366.29,2.12.2024
+1048,66 Kirchröder Straße,kirchrode,30539,Hannover,"72,7",872.94,05.01.2021
+1049,86 Kirchröder Straße,kirchrode,30539,Hannover,90.8,"1.230,75 €",2022-02-08
+1050,88 Hauptstraase,Kirchrode,30539,Hannover,,1186.8,11.3.2023
+1051,88 Hauptstraße,Kirchrode,30539,Hannover,92.0,"1.187,00 €",14.04.2024
+1052,122 Podbielskistraße,bothfeld,30659,Hannover,"33,0 m²","389,41",2021-05-17
+1053,22 Podbielskistraße,bothfeld,30659,Hannover,32.3,409.01,20.6.2022
+1054,52 Sutelstraße,bothfeld,30659,Hannover,30.5,349.49,23.07.2023
+1055,72 Sutelstraße,bothfeld,30659,Hannover,75.6,"924,69",2024-08-26
+1056,14 Marktplatz,Laatzen,30880,Laatzen,"71,0",773.9,1.9.2021
+1057,2 Am Wasserturm,Laatzen,30880,Laatzen,,999,04.10.2022
+1058,9 Rathausstraße,Garbsen,30823,garbsen,999,-1,2023-11-07
